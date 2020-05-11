@@ -1,0 +1,2 @@
+# microprojectjsp
+Name of this solution is “microproject”. This is a web application based on JSP. It consists of sign up, log in, front end error input validation, record entry, record deletion, record update, record searching etc. Facilities within a single application. An authorized user only can access this application by signing up or logging in. The user can view all records updated by various users including his own. Even user can view or take actions against the records added by him under a separate field in the application. This application uses session scope.
