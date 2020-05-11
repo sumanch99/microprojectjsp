@@ -1,0 +1,47 @@
+body{
+    background-color: whitesmoke;
+}
+
+a{
+
+}
+.add , .delete , .update , .search
+{
+    background-color: rgb(32, 41, 41) ;
+    color: papayawhip;
+    margin-top: 8%;
+    margin-bottom: 6%;
+    font-size: large;
+    height: 160px;
+    width: 200px;
+    padding: 0%;
+    border-radius: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.add:hover , .delete:hover , .update:hover , .search:hover
+{
+    background-color: rgb(3, 3, 3) ;
+    color: papayawhip;
+    border-radius: 25%;
+    font-size: 15px;
+}
+
+.frm{
+    margin-top: 5%;
+    margin-bottom: -4%;
+    font-size: 15pt;
+}
+
+input 
+{ 
+    font-size: 18px; 
+    background-color:whitesmoke
+    color: white;
+}
+
+input:hover, input:focus
+{
+    background-color: rgb(3, 3, 3);
+    color: whitesmoke;
+}
+

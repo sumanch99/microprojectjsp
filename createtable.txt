@@ -1,0 +1,20 @@
+create table records
+ (
+	number varchar(10),
+	name varchar(30),
+	address varchar(30),
+	dob varchar(10),
+	sex varchar(1),
+	description varchar(255),
+	adder varchar(255)
+);
+
+
+
+create table users
+ (
+   username varchar(10),
+   name varchar(255),
+   email varchar(255),
+   password varchar(255)
+  );
